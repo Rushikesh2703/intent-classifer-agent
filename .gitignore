@@ -1,0 +1,27 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Python virtual environment
+venv/
+ENV/
+*/env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
